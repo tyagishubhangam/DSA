@@ -7,6 +7,7 @@ Leetcode and GFG problems
 | ------- |
 | [0015-3sum](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0229-majority-element-ii) |
 # Two Pointers
@@ -14,11 +15,13 @@ Leetcode and GFG problems
 | ------- |
 | [0015-3sum](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0088-merge-sorted-array) |
 # Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0229-majority-element-ii) |
 # Dynamic Programming
 |  |
