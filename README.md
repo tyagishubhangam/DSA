@@ -35,3 +35,11 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/0229-majority-element-ii) |
+# String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/1078-remove-outermost-parentheses) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/1078-remove-outermost-parentheses) |
