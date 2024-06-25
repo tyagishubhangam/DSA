@@ -43,3 +43,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA-Arrays/tree/master/1078-remove-outermost-parentheses) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0237-delete-node-in-a-linked-list) |
