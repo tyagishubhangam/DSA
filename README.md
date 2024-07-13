@@ -71,4 +71,16 @@ Leetcode and GFG problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
