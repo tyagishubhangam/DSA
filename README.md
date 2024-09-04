@@ -99,4 +99,12 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
