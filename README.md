@@ -61,6 +61,7 @@ Leetcode and GFG problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@ Leetcode and GFG problems
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
