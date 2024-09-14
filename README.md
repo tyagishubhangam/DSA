@@ -79,6 +79,7 @@ Leetcode and GFG problems
 | [0145-binary-tree-postorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tyagishubhangam/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Leetcode and GFG problems
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
