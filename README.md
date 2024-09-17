@@ -72,6 +72,7 @@ Leetcode and GFG problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/tyagishubhangam/DSA/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Leetcode and GFG problems
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tyagishubhangam/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/tyagishubhangam/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
