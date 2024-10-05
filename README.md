@@ -84,6 +84,7 @@ Leetcode and GFG problems
 | [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tyagishubhangam/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Leetcode and GFG problems
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/tyagishubhangam/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
