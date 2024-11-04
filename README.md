@@ -170,4 +170,12 @@ Leetcode and GFG problems
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
