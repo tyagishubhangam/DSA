@@ -77,6 +77,7 @@ Leetcode and GFG problems
 | [0242-valid-anagram](https://github.com/tyagishubhangam/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tyagishubhangam/DSA/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String Matching
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Leetcode and GFG problems
 | ------- |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,5 +187,10 @@ Leetcode and GFG problems
 ## Sliding Window
 |  |
 | ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/tyagishubhangam/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
