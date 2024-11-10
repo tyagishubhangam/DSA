@@ -131,6 +131,7 @@ Leetcode and GFG problems
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/tyagishubhangam/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
 | ------- |
@@ -180,4 +181,8 @@ Leetcode and GFG problems
 | ------- |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/tyagishubhangam/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
