@@ -185,6 +185,7 @@ Leetcode and GFG problems
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 ## Binary Search
@@ -199,6 +200,7 @@ Leetcode and GFG problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/tyagishubhangam/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
