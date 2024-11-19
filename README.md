@@ -79,6 +79,7 @@ Leetcode and GFG problems
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Stack
 |  |
@@ -186,6 +187,7 @@ Leetcode and GFG problems
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 ## Binary Search
@@ -202,6 +204,7 @@ Leetcode and GFG problems
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/tyagishubhangam/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
