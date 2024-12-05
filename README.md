@@ -59,6 +59,7 @@ Leetcode and GFG problems
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/tyagishubhangam/DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -190,6 +191,7 @@ Leetcode and GFG problems
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/tyagishubhangam/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
