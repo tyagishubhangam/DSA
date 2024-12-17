@@ -85,6 +85,7 @@ Leetcode and GFG problems
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tyagishubhangam/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -195,6 +196,7 @@ Leetcode and GFG problems
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
@@ -208,6 +210,7 @@ Leetcode and GFG problems
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -230,6 +233,7 @@ Leetcode and GFG problems
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tyagishubhangam/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
