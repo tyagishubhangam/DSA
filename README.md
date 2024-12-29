@@ -204,6 +204,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tyagishubhangam/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -222,6 +223,7 @@ Leetcode and GFG problems
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
