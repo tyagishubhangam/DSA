@@ -108,6 +108,7 @@ Leetcode and GFG problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tyagishubhangam/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Leetcode and GFG problems
 | [0033-search-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -255,6 +257,7 @@ Leetcode and GFG problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
