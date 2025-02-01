@@ -103,6 +103,7 @@ Leetcode and GFG problems
 | [0145-binary-tree-postorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/tyagishubhangam/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tyagishubhangam/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -170,6 +171,7 @@ Leetcode and GFG problems
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -187,6 +189,7 @@ Leetcode and GFG problems
 | [0242-valid-anagram](https://github.com/tyagishubhangam/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Leetcode and GFG problems
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/tyagishubhangam/DSA/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -274,4 +278,5 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
