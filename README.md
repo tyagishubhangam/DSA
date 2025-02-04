@@ -218,6 +218,7 @@ Leetcode and GFG problems
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -240,6 +241,7 @@ Leetcode and GFG problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -288,5 +290,10 @@ Leetcode and GFG problems
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
