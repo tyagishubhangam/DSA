@@ -170,6 +170,7 @@ Leetcode and GFG problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/tyagishubhangam/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
+| [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -233,6 +234,7 @@ Leetcode and GFG problems
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
