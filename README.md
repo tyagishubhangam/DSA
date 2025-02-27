@@ -134,6 +134,7 @@ Leetcode and GFG problems
 | [0094-binary-tree-inorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0565-array-nesting](https://github.com/tyagishubhangam/DSA/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Leetcode and GFG problems
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/tyagishubhangam/DSA/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
