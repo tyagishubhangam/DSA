@@ -79,6 +79,7 @@ Leetcode and GFG problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tyagishubhangam/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tyagishubhangam/DSA/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/tyagishubhangam/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/tyagishubhangam/DSA/tree/master/0205-isomorphic-strings) |
@@ -229,6 +230,7 @@ Leetcode and GFG problems
 | [0027-remove-element](https://github.com/tyagishubhangam/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/tyagishubhangam/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
