@@ -232,6 +232,7 @@ Leetcode and GFG problems
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tyagishubhangam/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
@@ -295,6 +296,7 @@ Leetcode and GFG problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
@@ -342,4 +344,8 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
