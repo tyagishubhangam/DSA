@@ -1,27 +1,31 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> li = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-
-        getSubsets(temp, 0, li, nums);
-        return li;
-
-    }
-
-    public static void getSubsets(List<Integer> tmp,int idx, List<List<Integer>> li,int[] nums){
-
-        if(idx == nums.length){
-            li.add(new ArrayList<>(tmp));
-            return;
+        int n = nums.length;
+        for(int i=0;i< Math.pow(2,n);i++){
+            List<Integer> tmp = new ArrayList<>();
+            int[] bits = new int[n];
+            getBits(i, bits);
+            for(int pt = 0;pt<bits.length;pt++){
+                if(bits[pt] == 1){
+                    tmp.add(nums[pt]);
+                }
+            }
+            li.add(tmp);
+           
         }
-
-        tmp.add(nums[idx]);
-        getSubsets(tmp,idx + 1, li, nums);
-
-        tmp.removeLast();
-        getSubsets(tmp,idx + 1, li, nums);
-
+        return li;
     }
 
+    public static void getBits(int i,int[] bits){
+        int end = 0;
+        // int [] bits = new int[n/2];
+        while(i != 0){
+            bits[bits.length - end - 1] = i % 2;
+            i = i/2;
+            end++;
+        }
+        // return bits;
+    }
     
 }
