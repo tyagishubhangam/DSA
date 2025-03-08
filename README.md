@@ -73,6 +73,7 @@ Leetcode and GFG problems
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tyagishubhangam/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
