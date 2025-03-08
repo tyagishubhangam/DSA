@@ -180,6 +180,7 @@ Leetcode and GFG problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/tyagishubhangam/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
@@ -320,6 +321,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Monotonic Stack
 |  |
@@ -356,4 +358,8 @@ Leetcode and GFG problems
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tyagishubhangam/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
