@@ -173,6 +173,7 @@ Leetcode and GFG problems
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
@@ -181,6 +182,7 @@ Leetcode and GFG problems
 | [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -339,6 +341,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
