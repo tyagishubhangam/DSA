@@ -152,6 +152,7 @@ Leetcode and GFG problems
 | [0013-roman-to-integer](https://github.com/tyagishubhangam/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tyagishubhangam/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tyagishubhangam/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tyagishubhangam/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -320,6 +321,7 @@ Leetcode and GFG problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -357,6 +359,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tyagishubhangam/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
