@@ -245,6 +245,7 @@ Leetcode and GFG problems
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/tyagishubhangam/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -362,6 +363,7 @@ Leetcode and GFG problems
 | [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/tyagishubhangam/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/tyagishubhangam/DSA/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
 | ------- |
