@@ -5,7 +5,7 @@ class Solution {
         generateHappyStrings('a',arr,0,n,li);
         generateHappyStrings('b',arr,0,n,li);
         generateHappyStrings('c',arr,0,n,li);
-        System.out.println(li);
+        // System.out.println(li);
         if(k>li.size()){
             return "";
         }
