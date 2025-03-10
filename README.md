@@ -353,6 +353,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
+| [1212-sequential-digits](https://github.com/tyagishubhangam/DSA/tree/master/1212-sequential-digits) |
 ## Radix Sort
 |  |
 | ------- |
