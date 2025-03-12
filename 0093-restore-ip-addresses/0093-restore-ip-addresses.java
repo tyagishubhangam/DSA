@@ -1,6 +1,9 @@
 class Solution {
     public List<String> restoreIpAddresses(String s) {
         List<String> ans = new ArrayList<>();
+        if(s.length()>12 || s.length() < 4){
+            return ans;
+        }
         generateIpAddrs(0,0,"",s,ans);
         return ans;
     }
