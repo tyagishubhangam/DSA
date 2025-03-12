@@ -243,6 +243,7 @@ Leetcode and GFG problems
 | [0039-combination-sum](https://github.com/tyagishubhangam/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/tyagishubhangam/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/tyagishubhangam/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
@@ -366,6 +367,7 @@ Leetcode and GFG problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tyagishubhangam/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tyagishubhangam/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/tyagishubhangam/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tyagishubhangam/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/tyagishubhangam/DSA/tree/master/0093-restore-ip-addresses) |
