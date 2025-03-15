@@ -75,6 +75,7 @@ Leetcode and GFG problems
 | ------- |
 | [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Leetcode and GFG problems
 | ------- |
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Leetcode and GFG problems
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -312,6 +315,7 @@ Leetcode and GFG problems
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
