@@ -21,7 +21,7 @@ class Solution {
             }
             
         }
-        System.out.println(li);
+        // System.out.println(li);
         if(total == 0 || total % 2 != 0){
             return 0;
         }
