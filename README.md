@@ -325,6 +325,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/tyagishubhangam/DSA/tree/master/0191-number-of-1-bits) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -365,6 +366,7 @@ Leetcode and GFG problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/tyagishubhangam/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Number Theory
 |  |
