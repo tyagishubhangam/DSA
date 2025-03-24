@@ -23,6 +23,7 @@ class Solution {
                 tmp.add(str);
             }
             li.add(tmp);
+            return;
         }
 
         for(int col = 0;col<n;col++){
