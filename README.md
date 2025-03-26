@@ -137,6 +137,7 @@ Leetcode and GFG problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -157,6 +158,7 @@ Leetcode and GFG problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tyagishubhangam/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/tyagishubhangam/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/tyagishubhangam/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
@@ -259,6 +261,7 @@ Leetcode and GFG problems
 | [0047-permutations-ii](https://github.com/tyagishubhangam/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tyagishubhangam/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
@@ -362,6 +365,7 @@ Leetcode and GFG problems
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
@@ -398,6 +402,7 @@ Leetcode and GFG problems
 | [0052-n-queens-ii](https://github.com/tyagishubhangam/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/tyagishubhangam/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/tyagishubhangam/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/tyagishubhangam/DSA/tree/master/0216-combination-sum-iii) |
