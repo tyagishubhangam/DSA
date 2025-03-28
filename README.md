@@ -76,6 +76,7 @@ Leetcode and GFG problems
 | [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tyagishubhangam/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -197,6 +198,7 @@ Leetcode and GFG problems
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
+| [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -334,6 +336,7 @@ Leetcode and GFG problems
 | [0191-number-of-1-bits](https://github.com/tyagishubhangam/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
