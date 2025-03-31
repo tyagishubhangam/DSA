@@ -281,6 +281,7 @@ Leetcode and GFG problems
 | [0565-array-nesting](https://github.com/tyagishubhangam/DSA/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/tyagishubhangam/DSA/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/tyagishubhangam/DSA/tree/master/0932-monotonic-array) |
@@ -348,6 +349,7 @@ Leetcode and GFG problems
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/tyagishubhangam/DSA/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
