@@ -315,6 +315,7 @@ Leetcode and GFG problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tyagishubhangam/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/tyagishubhangam/DSA/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -435,4 +436,8 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tyagishubhangam/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
