@@ -228,12 +228,14 @@ Leetcode and GFG problems
 | [0047-permutations-ii](https://github.com/tyagishubhangam/DSA/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/tyagishubhangam/DSA/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -276,6 +278,7 @@ Leetcode and GFG problems
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/tyagishubhangam/DSA/tree/master/0565-array-nesting) |
@@ -308,6 +311,7 @@ Leetcode and GFG problems
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/tyagishubhangam/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -377,6 +381,7 @@ Leetcode and GFG problems
 | [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
 | [2737-row-with-maximum-ones](https://github.com/tyagishubhangam/DSA/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
