@@ -212,6 +212,7 @@ Leetcode and GFG problems
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -282,6 +283,7 @@ Leetcode and GFG problems
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/tyagishubhangam/DSA/tree/master/0565-array-nesting) |
@@ -319,6 +321,7 @@ Leetcode and GFG problems
 | [0278-first-bad-version](https://github.com/tyagishubhangam/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/tyagishubhangam/DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -359,6 +362,7 @@ Leetcode and GFG problems
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tyagishubhangam/DSA/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -375,6 +379,7 @@ Leetcode and GFG problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 ## Monotonic Stack
