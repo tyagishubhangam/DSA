@@ -270,6 +270,7 @@ Leetcode and GFG problems
 | [0051-n-queens](https://github.com/tyagishubhangam/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tyagishubhangam/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tyagishubhangam/DSA/tree/master/0162-find-peak-element) |
@@ -376,6 +377,7 @@ Leetcode and GFG problems
 | [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tyagishubhangam/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
