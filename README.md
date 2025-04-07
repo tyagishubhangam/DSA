@@ -277,6 +277,7 @@ Leetcode and GFG problems
 | [0162-find-peak-element](https://github.com/tyagishubhangam/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/tyagishubhangam/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/tyagishubhangam/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -382,6 +383,7 @@ Leetcode and GFG problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tyagishubhangam/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/tyagishubhangam/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
