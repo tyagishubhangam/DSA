@@ -196,6 +196,7 @@ Leetcode and GFG problems
 | [0060-permutation-sequence](https://github.com/tyagishubhangam/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tyagishubhangam/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
@@ -377,6 +378,7 @@ Leetcode and GFG problems
 | [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tyagishubhangam/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
@@ -449,4 +451,8 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tyagishubhangam/DSA/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
