@@ -237,6 +237,7 @@ Leetcode and GFG problems
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Leetcode and GFG problems
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tyagishubhangam/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2737-row-with-maximum-ones](https://github.com/tyagishubhangam/DSA/tree/master/2737-row-with-maximum-ones) |
@@ -331,6 +333,7 @@ Leetcode and GFG problems
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
