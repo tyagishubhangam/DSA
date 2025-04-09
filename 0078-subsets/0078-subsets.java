@@ -1,31 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> li = new ArrayList<>();
-        int n = nums.length;
-        for(int i=0;i< Math.pow(2,n);i++){
-            List<Integer> tmp = new ArrayList<>();
-            int[] bits = new int[n];
-            getBits(i, bits);
-            for(int pt = 0;pt<bits.length;pt++){
-                if(bits[pt] == 1){
-                    tmp.add(nums[pt]);
-                }
-            }
-            li.add(tmp);
-           
-        }
+        List<Integer> tmp = new ArrayList<>();
+        generateAns(tmp, 0, li, nums);
         return li;
     }
 
-    public static void getBits(int i,int[] bits){
-        int end = 0;
-        // int [] bits = new int[n/2];
-        while(i != 0){
-            bits[bits.length - end - 1] = i % 2;
-            i = i/2;
-            end++;
+    public static void generateAns(List<Integer> tmp, int idx, List<List<Integer>> li, int[] nums){
+        if(idx == nums.length){
+            li.add(new ArrayList<>(tmp));
+            return;
         }
-        // return bits;
+
+        tmp.add(nums[idx]);
+        generateAns(tmp, idx + 1, li, nums);
+        tmp.removeLast();
+        generateAns(tmp,idx + 1, li, nums);
     }
-    
 }
