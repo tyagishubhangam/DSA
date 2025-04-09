@@ -1,38 +1,33 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        List<String>ans = new ArrayList<>();
-
-        if(digits.length() == 0){
-            return ans;
-        }
-        List<List<Character>> combinations = new ArrayList<>();
-        combinations.add(List.of('a','b','c'));
-        combinations.add(List.of('d','e','f'));
-        combinations.add(List.of('g','h','i'));
-        combinations.add(List.of('j','k','l'));
-        combinations.add(List.of('m','n','o'));
-        combinations.add(List.of('p','q','r','s'));
-        combinations.add(List.of('t','u','v'));
-        combinations.add(List.of('w','x','y','z'));
-
-        generateAllOutcomes("", 0, combinations, digits, ans);
-
-        return ans;
-
-
         
+        String[] arr = new String[10];
+        arr[2] = "abc";
+        arr[3] = "def";
+        arr[4] = "ghi";
+        arr[5] = "jkl";
+        arr[6] = "mno";
+        arr[7] = "pqrs";
+        arr[8] = "tuv";
+        arr[9] = "wxyz";
+        List<String> li = new ArrayList<>();
+        if(digits.length() == 0){
+            return li;
+        }
+        generateCombos("",digits,0,arr,li);
+        return li;
     }
 
-    public static void generateAllOutcomes(String tmp, int idx, List<List<Character>> combinations, String digits,List<String> ans){
-        if(idx == digits.length()){
-            ans.add(tmp);
+    public static void generateCombos(String tmp,String s, int idx, String[] arr,List<String> li){
+        if(idx == s.length()){
+            li.add(tmp);
             return;
         }
-
-        for(int i=0;i<combinations.get(digits.charAt(idx) - '2').size();i++){
-            generateAllOutcomes(tmp + combinations.get(digits.charAt(idx) - '2').get(i), idx+1, combinations, digits, ans );
+        int x = Integer.parseInt(s.substring(idx,idx+1));
+        String letters = arr[x];
+        for(int i=0;i<letters.length();i++){
+            generateCombos(tmp+letters.charAt(i),s,idx + 1,arr,li);
         }
-    }
 
-    
+    }
 }
