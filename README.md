@@ -95,6 +95,7 @@ Leetcode and GFG problems
 | [0560-subarray-sum-equals-k](https://github.com/tyagishubhangam/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0807-custom-sort-string](https://github.com/tyagishubhangam/DSA/tree/master/0807-custom-sort-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/tyagishubhangam/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -170,6 +171,7 @@ Leetcode and GFG problems
 | [0424-longest-repeating-character-replacement](https://github.com/tyagishubhangam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/tyagishubhangam/DSA/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/tyagishubhangam/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/tyagishubhangam/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -238,6 +240,7 @@ Leetcode and GFG problems
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-custom-sort-string](https://github.com/tyagishubhangam/DSA/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tyagishubhangam/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
