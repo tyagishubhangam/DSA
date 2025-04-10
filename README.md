@@ -203,6 +203,7 @@ Leetcode and GFG problems
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/tyagishubhangam/DSA/tree/master/0367-valid-perfect-square) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -237,6 +238,7 @@ Leetcode and GFG problems
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tyagishubhangam/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -245,6 +247,7 @@ Leetcode and GFG problems
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
@@ -302,6 +305,7 @@ Leetcode and GFG problems
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/tyagishubhangam/DSA/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tyagishubhangam/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
@@ -418,6 +422,7 @@ Leetcode and GFG problems
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tyagishubhangam/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
@@ -468,4 +473,12 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
