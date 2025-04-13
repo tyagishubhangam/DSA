@@ -13,44 +13,30 @@ class Solution {
         ListNode n1 = l1;
         ListNode n2 = l2;
         List<Integer> li = new ArrayList<>();
+        ListNode res = new ListNode(0);
+        ListNode tmp = res;
         int carry = 0;
-        while(n1 != null && n2 != null){
-            int n = n1.val + n2.val + carry;
-            carry = n/10;
-            int data = n%10;
-            li.add(data);
-            n1 = n1.next;
-            n2 = n2.next;
-        }
-        if(n1 == null && n2 != null){
-            while(n2 != null){
-                int data = (n2.val + carry)%10;
-                li.add(data);
-                carry = (n2.val + carry)/10;
+        while(n1 != null || n2 != null || carry != 0){
+
+            int n = 0;
+            if(n1 != null){
+                n += n1.val;
+                n1 = n1.next;
+            }
+            if(n2 != null){
+                n += n2.val;
                 n2 = n2.next;
             }
-            
-        }else{
-            if(n1 != null && n2 == null){
-                while(n1 != null){
-                    int data = (n1.val + carry)%10;
-                    li.add(data);
-                    carry = (n1.val + carry)/10;
-                    n1 = n1.next;
-                }
-                
-            }
-        }
-        if(carry != 0){
-            li.add(carry);
-        }
-        ListNode head = new ListNode(li.get(0));
-        ListNode tmp = head;
-        for(int i=1;i<li.size();i++){
-            ListNode mvr = new ListNode(li.get(i));
-            tmp.next=mvr;
+            n += carry;
+            int data = n%10;
+            ListNode mvr = new ListNode(data);
+            tmp.next = mvr;
             tmp = mvr;
+            carry = n/10;
+            
+            
+            
         }
-        return head;
+        return res.next;
     }
 }
