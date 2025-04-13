@@ -77,6 +77,7 @@ Leetcode and GFG problems
 | [0060-permutation-sequence](https://github.com/tyagishubhangam/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [2050-count-good-numbers](https://github.com/tyagishubhangam/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@ Leetcode and GFG problems
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/tyagishubhangam/DSA/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
