@@ -316,6 +316,7 @@ Leetcode and GFG problems
 | [0724-find-pivot-index](https://github.com/tyagishubhangam/DSA/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/tyagishubhangam/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/tyagishubhangam/DSA/tree/master/0883-car-fleet) |
 | [0932-monotonic-array](https://github.com/tyagishubhangam/DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/tyagishubhangam/DSA/tree/master/0948-sort-an-array) |
@@ -353,6 +354,7 @@ Leetcode and GFG problems
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/tyagishubhangam/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
