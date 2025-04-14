@@ -84,6 +84,7 @@ Leetcode and GFG problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tyagishubhangam/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tyagishubhangam/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tyagishubhangam/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tyagishubhangam/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -288,6 +289,7 @@ Leetcode and GFG problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tyagishubhangam/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/tyagishubhangam/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
