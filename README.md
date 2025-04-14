@@ -55,6 +55,7 @@ Leetcode and GFG problems
 | [0002-add-two-numbers](https://github.com/tyagishubhangam/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tyagishubhangam/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@ Leetcode and GFG problems
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tyagishubhangam/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -91,6 +93,7 @@ Leetcode and GFG problems
 | [0041-first-missing-positive](https://github.com/tyagishubhangam/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/tyagishubhangam/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tyagishubhangam/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tyagishubhangam/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/tyagishubhangam/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tyagishubhangam/DSA/tree/master/0242-valid-anagram) |
