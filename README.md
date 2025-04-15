@@ -308,6 +308,7 @@ Leetcode and GFG problems
 | [0047-permutations-ii](https://github.com/tyagishubhangam/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tyagishubhangam/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/tyagishubhangam/DSA/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tyagishubhangam/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -366,6 +367,7 @@ Leetcode and GFG problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tyagishubhangam/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tyagishubhangam/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tyagishubhangam/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -453,6 +455,7 @@ Leetcode and GFG problems
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
