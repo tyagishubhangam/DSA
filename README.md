@@ -81,6 +81,7 @@ Leetcode and GFG problems
 | [0060-permutation-sequence](https://github.com/tyagishubhangam/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/tyagishubhangam/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -225,6 +226,7 @@ Leetcode and GFG problems
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/tyagishubhangam/DSA/tree/master/0367-valid-perfect-square) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -449,6 +451,7 @@ Leetcode and GFG problems
 | [0518-coin-change-ii](https://github.com/tyagishubhangam/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/tyagishubhangam/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/1250-longest-common-subsequence) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 ## Monotonic Stack
@@ -526,6 +529,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
