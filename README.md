@@ -72,6 +72,7 @@ Leetcode and GFG problems
 | [0160-intersection-of-two-linked-lists](https://github.com/tyagishubhangam/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
+| [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -243,6 +244,7 @@ Leetcode and GFG problems
 | [0334-increasing-triplet-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -267,6 +269,7 @@ Leetcode and GFG problems
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/tyagishubhangam/DSA/tree/master/0807-custom-sort-string) |
 | [0883-car-fleet](https://github.com/tyagishubhangam/DSA/tree/master/0883-car-fleet) |
+| [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/tyagishubhangam/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -343,6 +346,7 @@ Leetcode and GFG problems
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tyagishubhangam/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/tyagishubhangam/DSA/tree/master/0883-car-fleet) |
+| [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [0932-monotonic-array](https://github.com/tyagishubhangam/DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/tyagishubhangam/DSA/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tyagishubhangam/DSA/tree/master/0966-binary-subarrays-with-sum) |
