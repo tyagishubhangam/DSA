@@ -33,27 +33,18 @@ class GFG {
 class Solution {
     int countWays(int n) {
         // your code here
-        int[] dp = new int[n];
-        for(int i=0;i<n;i++){
-            dp[i] = -1;
-        }
-        
-        return helper(0,dp,n);
-        
-    }
-    
-    public static int helper(int i, int[] dp, int n){
-        if(i == n){
+        int prev = 2;
+        int prevPrev = 1;
+        if(n == 1){
             return 1;
         }
-        if(i>n){
-            return 0;
-        }
-        if(dp[i] != -1){
-            return dp[i];
+        
+        for(int i=3;i<=n;i++){
+            int curr = prev + prevPrev;
+            prevPrev = prev;
+            prev = curr;
         }
         
-        dp[i] = helper(i+1, dp, n) + helper(i+2, dp, n);
-        return dp[i];
+        return prev;
     }
 }
