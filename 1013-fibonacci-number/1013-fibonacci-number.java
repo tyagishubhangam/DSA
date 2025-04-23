@@ -1,22 +1,17 @@
 class Solution {
     public int fib(int n) {
-        int[] dp = new int[n+1];
-        for(int i=0;i<=n;i++){
-            dp[i] = -1;
-        }
-
-        return getnum(n, dp);
-    }
-
-    public static int getnum(int n, int[] dp){
-        if(dp[n] != -1){
-            return dp[n];
-        }
-
-        if(n<2){
+        if(n < 2){
             return n;
         }
+        int prev = 1;
+        int prevPrev = 0;
+        
+        for(int i=2;i<=n;i++){
+            int curr = prev + prevPrev;
+            prevPrev = prev;
+            prev = curr;
+        }
 
-        return dp[n] = getnum(n - 1, dp) + getnum(n-2, dp);
+        return prev;
     }
 }
