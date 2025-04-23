@@ -1,18 +1,22 @@
 class Solution {
     public int fib(int n) {
-        int[] fib = new int[n+1];
-        if(n>0){
-            fib[1] = 1;
-        }
-        fib[0] = 0;
-        
-        for(int i=2;i<=n;i++){
-            fib[i] = fib[i-1] + fib[i-2];
+        int[] dp = new int[n+1];
+        for(int i=0;i<=n;i++){
+            dp[i] = -1;
         }
 
-        // for(int i=0;i<=n;i++){
-        //     System.out.print(fib[i]+" ");
-        // }
-        return fib[n];
+        return getnum(n, dp);
+    }
+
+    public static int getnum(int n, int[] dp){
+        if(dp[n] != -1){
+            return dp[n];
+        }
+
+        if(n<2){
+            return n;
+        }
+
+        return dp[n] = getnum(n - 1, dp) + getnum(n-2, dp);
     }
 }
