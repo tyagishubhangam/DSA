@@ -343,6 +343,7 @@ Leetcode and GFG problems
 | [0594-longest-harmonious-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tyagishubhangam/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tyagishubhangam/DSA/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tyagishubhangam/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/tyagishubhangam/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tyagishubhangam/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -459,6 +460,7 @@ Leetcode and GFG problems
 | [0518-coin-change-ii](https://github.com/tyagishubhangam/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/tyagishubhangam/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0747-min-cost-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/1250-longest-common-subsequence) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
