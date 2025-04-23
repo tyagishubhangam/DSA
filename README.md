@@ -322,6 +322,7 @@ Leetcode and GFG problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tyagishubhangam/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tyagishubhangam/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/tyagishubhangam/DSA/tree/master/0164-maximum-gap) |
+| [0174-dungeon-game](https://github.com/tyagishubhangam/DSA/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tyagishubhangam/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
@@ -449,6 +450,7 @@ Leetcode and GFG problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tyagishubhangam/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tyagishubhangam/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/tyagishubhangam/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/tyagishubhangam/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/tyagishubhangam/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
@@ -471,6 +473,7 @@ Leetcode and GFG problems
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tyagishubhangam/DSA/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/tyagishubhangam/DSA/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
