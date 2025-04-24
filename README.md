@@ -327,6 +327,7 @@ Leetcode and GFG problems
 | [0198-house-robber](https://github.com/tyagishubhangam/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tyagishubhangam/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/tyagishubhangam/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/tyagishubhangam/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -453,6 +454,7 @@ Leetcode and GFG problems
 | [0131-palindrome-partitioning](https://github.com/tyagishubhangam/DSA/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/tyagishubhangam/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/tyagishubhangam/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/tyagishubhangam/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/tyagishubhangam/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
