@@ -1,15 +1,18 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int n = prices.length;
-        int[] suffArr = new int[n];
-        suffArr[n - 1] = prices[n - 1];
-        for(int i=n-2;i>=0;i--){
-            suffArr[i] = Math.max(prices[i], suffArr[i + 1]);
+        if(prices.length == 1){
+            return 0;
         }
-        int profit = 0;
-        for(int i=0;i<n;i++){
-            profit = Math.max(profit, suffArr[i] - prices[i]);
+        int[] suffPrices = new int[prices.length];
+        suffPrices[prices.length - 1] = prices[prices.length - 1];
+        for(int i=prices.length - 2;i>=0;i--){
+            suffPrices[i] = Math.max(suffPrices[i+1], prices[i]);
         }
-        return profit;
+        int profit = Integer.MIN_VALUE;
+        for(int i=0;i<prices.length-1;i++){
+            profit = Math.max(profit,  suffPrices[i+1] - prices[i] );
+        }
+
+        return profit<0?0: profit;
     }
 }
