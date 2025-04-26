@@ -71,6 +71,7 @@ Leetcode and GFG problems
 | [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tyagishubhangam/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tyagishubhangam/DSA/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
 | [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -186,6 +187,7 @@ Leetcode and GFG problems
 | [0151-reverse-words-in-a-string](https://github.com/tyagishubhangam/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tyagishubhangam/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tyagishubhangam/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/tyagishubhangam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -457,6 +459,7 @@ Leetcode and GFG problems
 | [0213-house-robber-ii](https://github.com/tyagishubhangam/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/tyagishubhangam/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tyagishubhangam/DSA/tree/master/0518-coin-change-ii) |
