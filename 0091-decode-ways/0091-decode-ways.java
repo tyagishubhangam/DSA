@@ -30,6 +30,9 @@ class Solution {
         
         
         int a = recurse(i+1,s,dp);
+        if(n1 > 2){
+            return dp[i] = a;
+        }
         int b = 0;
         if(i+2 <= s.length()){
             int n2 = Integer.parseInt(s.substring(i,i+2));
