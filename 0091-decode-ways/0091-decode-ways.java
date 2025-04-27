@@ -22,7 +22,7 @@ class Solution {
             return dp[i];
         }
 
-        int n1 = Integer.parseInt(s.substring(i,i+1));
+        int n1 = s.charAt(i) - '0';
         if(n1 >26 || n1<=0){
             return 0;
         }
@@ -35,7 +35,7 @@ class Solution {
         }
         int b = 0;
         if(i+2 <= s.length()){
-            int n2 = Integer.parseInt(s.substring(i,i+2));
+            int n2 = (s.charAt(i) - '0') * 10 + (s.charAt(i+1) - '0');
             if(n2 <= 26){
                 b = recurse(i+2,s,dp);
             }
