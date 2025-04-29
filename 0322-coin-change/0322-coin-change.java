@@ -10,6 +10,6 @@ class Solution {
                 }
             }
         }
-        return ans[amount] < Integer.MAX_VALUE? (int)ans[amount]:-1;
+        return ans[amount] <= amount? (int)ans[amount]:-1;
     }
 }
