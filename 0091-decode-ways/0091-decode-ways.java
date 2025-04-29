@@ -1,21 +1,17 @@
 class Solution {
     public int numDecodings(String s) {
-        int[] dp = new int[s.length()];
-        Arrays.fill(dp,-1);
-        if(s.charAt(0) == '0'){
-            return 0;
-        }
-        if(s.length() == 1){
-            return 1;
-        }
-        return recurse(0,s,dp);
+        int dp[] = new int[s.length()];
+        Arrays.fill(dp, -1);
+        int ans = getAns(0,dp,s);
+        return ans >=0? ans:0;
     }
 
-    public static int recurse(int i, String s, int[] dp){
+    public static int getAns(int i, int[] dp, String s){
         if(i == s.length()){
             return 1;
         }
-        if(i> s.length()){
+
+        if(i> s.length() ){
             return 0;
         }
         if(dp[i] != -1){
@@ -23,25 +19,18 @@ class Solution {
         }
 
         int n1 = s.charAt(i) - '0';
-        if(n1 >26 || n1<=0){
-            return 0;
-        }
-        
-        
-        
-        int a = recurse(i+1,s,dp);
-        if(n1 > 2){
-            return dp[i] = a;
-        }
-        int b = 0;
-        if(i+2 <= s.length()){
-            int n2 = (s.charAt(i) - '0') * 10 + (s.charAt(i+1) - '0');
-            if(n2 <= 26){
-                b = recurse(i+2,s,dp);
+
+        if(n1>0 && n1<=9){
+            dp[i] = getAns(i+1,dp,s);
+
+            if(i+1 < s.length()){
+                int n2 = n1*10 + (s.charAt(i+1) - '0');
+                if(n2>=10 && n2<=26){
+                    dp[i] +=getAns(i+2,dp,s);
+                }
             }
         }
 
-        return dp[i] = a+b;
-        
+        return dp[i] == -1 ? 0:dp[i];
     }
 }
