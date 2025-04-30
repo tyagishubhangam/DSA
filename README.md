@@ -235,6 +235,7 @@ Leetcode and GFG problems
 | [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tyagishubhangam/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/tyagishubhangam/DSA/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -362,6 +363,7 @@ Leetcode and GFG problems
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tyagishubhangam/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tyagishubhangam/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
