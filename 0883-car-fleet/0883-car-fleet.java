@@ -1,36 +1,41 @@
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
-        int n = position.length;
-        List<Pair> li = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            Pair tmp = new Pair(position[i],(double)(target-position[i])/speed[i] );
-            li.add(tmp);
+        List<Car> li = new ArrayList<>();
+        for(int i=0;i<position.length;i++){
+            Car c = new Car(position[i],(double)(target - position[i])/speed[i]);
+            li.add(c);
         }
-        Collections.sort(li, new SortByPositions());
-        int fleet = 0;
-        double prevTime = 0;
-        for(int i=0;i<n;i++){
-            double currTime = li.get(i).time;
-            if(prevTime < currTime){
-                fleet++;
-                prevTime = currTime;
+
+        Collections.sort(li, new CustomSort());
+
+        double mx = -1;
+        int ans = 0;
+        for(Car i:li){
+            // System.out.print(i.pos+" "+i.time+" ");
+            if(mx < i.time){
+                ans++;
+                mx = i.time;
             }
         }
-        return fleet;
+
+        return ans;
     }
 }
 
-class Pair{
+class Car {
     int pos;
+    
     double time;
-    Pair(int pos, double time){
+
+    Car(int pos, double time){
         this.pos = pos;
+        
         this.time = time;
     }
 }
 
-class SortByPositions implements Comparator<Pair>{
-    public int compare(Pair p1, Pair p2){
-        return p2.pos - p1.pos;
+class CustomSort implements Comparator<Car>{
+    public int compare(Car a, Car b){
+        return b.pos - a.pos;
     }
 }
