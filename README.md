@@ -211,6 +211,7 @@ Leetcode and GFG problems
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [3379-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/tyagishubhangam/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/tyagishubhangam/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
