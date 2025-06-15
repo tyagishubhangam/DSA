@@ -6,48 +6,28 @@ class Solution {
         HashMap<Character, Integer> hs = new HashMap<>();
         for(int i=0;i<s1.length();i++){
             char ch = s1.charAt(i);
-            hs.put(ch, hs.getOrDefault(ch, 0)+1);
+            hs.put(ch,hs.getOrDefault(ch,0) + 1);
         }
         int l = 0;
         int r = 0;
-        while(r < s1.length()){
-            char tmp = s2.charAt(r);
-            if(hs.containsKey(tmp)){
-                hs.put(tmp,hs.get(tmp) - 1);
+        HashMap<Character, Integer> s1map = new HashMap<>(hs);
+        while(r<s2.length()){
+            char ch2 = s2.charAt(r);
+            if(s1map.get(ch2) == null){
+                l++;
+                r = l;
+                s1map = new HashMap<>(hs);
+                continue;
             }
-            r++;
-        }
-
-        if(isPermutationPresent(hs, s1)){
-            return true;
-        }
-
-        while(r< s2.length()){
-            char end = s2.charAt(r);
-            if(hs.containsKey(end)){
-                hs.put(end,hs.get(end) - 1);
+            s1map.put(ch2, s1map.get(ch2) - 1);
+            if(s1map.get(ch2) == 0){
+                s1map.remove(ch2);
             }
-            char start = s2.charAt(l);
-            if(hs.containsKey(start)){
-                hs.put(start,hs.get(start) + 1);
-            }
-
-            if(isPermutationPresent(hs, s1)){
+            if(s1map.size() == 0){
                 return true;
             }
-            l++;
             r++;
         }
-        
         return false;
-    }
-
-    public static boolean isPermutationPresent(HashMap<Character, Integer> hs, String s1){
-        for(int i=0;i<s1.length();i++){
-            if(hs.get(s1.charAt(i)) > 0){
-                return false;
-            }
-        }
-        return true;
     }
 }
