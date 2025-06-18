@@ -210,6 +210,7 @@ Leetcode and GFG problems
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -432,6 +433,7 @@ Leetcode and GFG problems
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tyagishubhangam/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
@@ -489,6 +491,7 @@ Leetcode and GFG problems
 | [0747-min-cost-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/1250-longest-common-subsequence) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 ## Monotonic Stack
 |  |
