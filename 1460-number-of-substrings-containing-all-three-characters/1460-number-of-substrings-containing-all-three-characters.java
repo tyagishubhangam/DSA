@@ -1,14 +1,26 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int arr []= {-1, -1, -1};
-        int count = 0;
-        for(int i = 0;i<s.length();i++){
-          char ch = s.charAt(i);
-            arr[ch - 'a'] = i;
-            if(arr[0] != -1 && arr[1] != -1 && arr[2] != -1){
-                count += 1 + Math.min(arr[0], Math.min(arr[1], arr[2]));
+        int n = s.length();
+        int[] str = {0,0,0};
+        // HashMap<Character, Integer> hs = new HashMap<>();
+        int l = 0;
+        int r = 0;
+        int ans = 0;
+        while(r<n){
+            char chAdd = s.charAt(r);
+            str[chAdd - 'a']++;
+            
+            
+            while(str[0] > 0 && str[1] > 0 && str[2] > 0){
+                char chRem = s.charAt(l);
+                ans += (n - r);
+                str[chRem - 'a']--;
+                
+                l++;
             }
+            r++;
         }
-        return count;
+        return ans;
+
     }
 }
