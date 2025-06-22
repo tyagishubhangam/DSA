@@ -1,23 +1,20 @@
 class Solution {
     public boolean isCycle(int V, int[][] edges) {
         // Code here
-        HashMap<Integer, List<Integer>> hs = new HashMap<>();
+        List<List<Integer>> adj = new ArrayList<>();
         for(int i=0;i<V;i++){
-            hs.put(i,new ArrayList<Integer>());
+            adj.add(new ArrayList<>());
         }
         for(int[] edge:edges){
             int u = edge[0];
             int v = edge[1];
-            
-            hs.get(u).add(v);
-            hs.get(v).add(u);
-            
-            
+            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
         boolean[] visited = new boolean[V];
         
         for(int i=0;i<V;i++){
-            if(!visited[i] && checkCycle(hs,i,-1,visited)){
+            if(!visited[i] && checkCycleBFS(adj,i,visited)){
                 return true;
             }
         }
@@ -25,22 +22,38 @@ class Solution {
         return false;
     }
     
-    public static boolean checkCycle(HashMap<Integer, List<Integer>> hs , int u, int parent,boolean[] visited){
-        
+    public static boolean checkCycleBFS(List<List<Integer>> adj,int u, boolean[] visited){
         visited[u] = true;
         
-        for(int v:hs.get(u)){
-            if( parent == v){
-                continue;
+        Queue<int[]> queue = new LinkedList<>();
+       int[] pair = new int[2];
+       pair[0] = u;
+       pair[1] = -1;
+        queue.add(pair);
+        
+        while(!queue.isEmpty()){
+            int[] x = queue.poll();
+            int node = x[0];
+            int parent = x[1];
+            for(int v:adj.get(node)){
+                if(parent == v){
+                    continue;
+                }
+                if(visited[v]){
+                    return true;
+                }
+                // Pair<Integer, Integer> tmp = new Pair<>(v,node);
+                int[] tmp = new int[2];
+                tmp[0] = v;
+                tmp[1] = node;
+                queue.add(tmp);
+                visited[v] = true;
             }
-            if(visited[v]){
-                return true;
-            }
-            if(checkCycle(hs,v,u,visited)){
-                return true;
-            }
-            
         }
+        
         return false;
+        
+        
+        
     }
 }
