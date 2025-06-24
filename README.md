@@ -163,6 +163,7 @@ Leetcode and GFG problems
 | [0144-binary-tree-preorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0565-array-nesting](https://github.com/tyagishubhangam/DSA/tree/master/0565-array-nesting) |
+| [0801-is-graph-bipartite](https://github.com/tyagishubhangam/DSA/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -605,4 +606,13 @@ Leetcode and GFG problems
 | [0102-binary-tree-level-order-traversal](https://github.com/tyagishubhangam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tyagishubhangam/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/tyagishubhangam/DSA/tree/master/0322-coin-change) |
+| [0801-is-graph-bipartite](https://github.com/tyagishubhangam/DSA/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/tyagishubhangam/DSA/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/tyagishubhangam/DSA/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
