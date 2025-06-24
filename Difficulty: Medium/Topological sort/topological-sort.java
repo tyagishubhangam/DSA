@@ -1,48 +1,39 @@
 class Solution {
     public static ArrayList<Integer> topoSort(int V, int[][] edges) {
         // code here
+        ArrayList<Integer> res = new ArrayList<>();
+        int[] inDegree = new int[V];
         List<List<Integer>> adj = new ArrayList<>();
         for(int i=0;i<V;i++){
             adj.add(new ArrayList<>());
         }
+        
         for(int[] edge:edges){
             int u = edge[0];
             int v = edge[1];
+            inDegree[v]++;
             adj.get(u).add(v);
         }
-        
-        Stack<Integer> st = new Stack<>();
-        boolean[] visited = new boolean[V];
+        Queue<Integer> queue = new LinkedList<>();
         for(int i=0;i<V;i++){
-            if(visited[i]){
-                continue;
+            if(inDegree[i] == 0){
+                queue.add(i);
             }
-            topoSort(adj,i,visited,st);
         }
         
-        ArrayList<Integer> res = new ArrayList<>();
-        while(!st.isEmpty()){
-            res.add(st.pop());
+        while(!queue.isEmpty()){
+            int u = queue.poll();
+            res.add(u);
+            for(int v:adj.get(u)){
+                inDegree[v]--;
+                if(inDegree[v] == 0){
+                    queue.add(v);
+                }
+            }
         }
-        
         
         return res;
-    }
-    
-    public static void topoSort(List<List<Integer>> adj, int u, boolean[] visited, Stack<Integer> st){
-        if(visited[u]){
-            return;
-        }
-        visited[u] = true;
-        for(int v:adj.get(u)){
-            if(visited[v]){
-                continue;
-            }
-            if(!visited[v]){
-                // st.push(v);
-                topoSort(adj,v,visited,st);
-            }
-        }
-        st.push(u);
+       
+        
     }
 }
