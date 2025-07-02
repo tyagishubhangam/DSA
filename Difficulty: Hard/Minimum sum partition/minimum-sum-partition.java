@@ -20,6 +20,7 @@ class Solution {
         for(int j=range/2;j>=0;j--){
             if(valid[j]){
                 res = Math.min(res,range - 2*j);
+                break;
             }
         }
         
