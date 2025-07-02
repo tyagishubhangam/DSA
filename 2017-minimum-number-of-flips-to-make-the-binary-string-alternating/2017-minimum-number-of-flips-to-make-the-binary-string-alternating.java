@@ -1,69 +1,66 @@
 class Solution {
     public int minFlips(String s) {
         int n = s.length();
-        String tmp = s + s;
-        int ans = n + n + n;
         int startWithZero = 0;
         int startWithOne = 0;
+        String tmp = s + s;
+
         for(int i=0;i<n;i++){
-            char ch = s.charAt(i);
-            if(i % 2 == 0){
+            char ch = tmp.charAt(i);
+            if(i%2 == 0){
                 if(ch != '0'){
-                    startWithZero += 1;
+                    startWithZero++;
                 }else{
-                    startWithOne += 1;
+                    startWithOne++;
                 }
-                
             }else{
                 if(ch != '1'){
-                    startWithZero += 1;
+                    startWithZero++;
                 }else{
-                    startWithOne += 1;
+                    startWithOne++;
                 }
             }
         }
-
+        int res = Math.min(startWithOne, startWithZero);
+        int ans = res;
         int l = 0;
         int r = n;
-        while(r < (2*n)){
-            char toRemove = tmp.charAt(l);
-            char toAdd = tmp.charAt(r);
-
+        while(r < (n+n)){
+            char rem = tmp.charAt(l);
+            char add = tmp.charAt(r);
             if(l % 2 == 0){
-                if(toRemove != '0'){
-                    startWithZero -= 1;
+                if(rem != '0'){
+                    startWithZero--;
                 }else{
-                    startWithOne -= 1;
+                    startWithOne--;
                 }
             }else{
-                if(toRemove != '1'){
-                    startWithZero -= 1;
+                if(rem != '1'){
+                    startWithZero--;
                 }else{
-                    startWithOne -= 1;
+                    startWithOne--;
                 }
             }
-
 
             if(r % 2 == 0){
-                if(toAdd != '0'){
-                    startWithZero += 1;
+                if(rem != '0'){
+                    startWithZero++;
                 }else{
-                    startWithOne += 1;
+                    startWithOne++;
                 }
             }else{
-                if(toAdd != '1'){
-                    startWithZero += 1;
+                if(rem != '1'){
+                    startWithZero++;
                 }else{
-                    startWithOne += 1;
+                    startWithOne++;
                 }
             }
 
-            ans = Math.min(ans, Math.min(startWithZero, startWithOne));
+            res = Math.min(startWithOne, startWithZero);
+            ans = Math.min(res, ans);
             l++;
             r++;
         }
-
         return ans;
-
     }
 }
