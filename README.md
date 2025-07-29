@@ -355,6 +355,7 @@ Leetcode and GFG problems
 | [0213-house-robber-ii](https://github.com/tyagishubhangam/DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/tyagishubhangam/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/tyagishubhangam/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/tyagishubhangam/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -474,6 +475,7 @@ Leetcode and GFG problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tyagishubhangam/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/tyagishubhangam/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tyagishubhangam/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
