@@ -210,6 +210,7 @@ Leetcode and GFG problems
 | [1250-longest-common-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tyagishubhangam/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tyagishubhangam/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/tyagishubhangam/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tyagishubhangam/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -486,6 +487,7 @@ Leetcode and GFG problems
 | [1046-max-consecutive-ones-iii](https://github.com/tyagishubhangam/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/tyagishubhangam/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tyagishubhangam/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
