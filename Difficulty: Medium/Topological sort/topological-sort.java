@@ -1,39 +1,35 @@
 class Solution {
     public static ArrayList<Integer> topoSort(int V, int[][] edges) {
         // code here
-        ArrayList<Integer> res = new ArrayList<>();
-        int[] inDegree = new int[V];
         List<List<Integer>> adj = new ArrayList<>();
         for(int i=0;i<V;i++){
             adj.add(new ArrayList<>());
         }
         
-        for(int[] edge:edges){
-            int u = edge[0];
-            int v = edge[1];
-            inDegree[v]++;
-            adj.get(u).add(v);
+        for(int[] edge : edges){
+            adj.get(edge[0]).add(edge[1]);
         }
-        Queue<Integer> queue = new LinkedList<>();
+        ArrayList<Integer> result = new ArrayList<>();
+        boolean[] visited = new boolean[V];
         for(int i=0;i<V;i++){
-            if(inDegree[i] == 0){
-                queue.add(i);
+            if(!visited[i]){
+                DFS(adj, i, visited, result);
+            }
+        }
+        Collections.reverse(result);
+        
+        return result;
+    }
+    
+    public static void DFS(List<List<Integer>> adj, int u, boolean[] visited, ArrayList<Integer> result){
+        visited[u] = true;
+        for(int v : adj.get(u)){
+            if(!visited[v]){
+                DFS(adj, v, visited, result);
             }
         }
         
-        while(!queue.isEmpty()){
-            int u = queue.poll();
-            res.add(u);
-            for(int v:adj.get(u)){
-                inDegree[v]--;
-                if(inDegree[v] == 0){
-                    queue.add(v);
-                }
-            }
-        }
-        
-        return res;
-       
+        result.add(u);
         
     }
 }
