@@ -1,73 +1,58 @@
-
 class Solution {
     public int[] dijkstra(int V, int[][] edges, int src) {
         // code here
-        
         List<List<Pair>> adj = new ArrayList<>();
         for(int i=0;i<V;i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] edge:edges){
+        
+        for(int[] edge : edges){
             int u = edge[0];
             int v = edge[1];
-            int w = edge[2];
-            Pair tmp = new Pair(w,v);
-            adj.get(u).add(tmp);
+            int wt = edge[2];
+            adj.get(u).add(new Pair(v,wt));
+            adj.get(v).add(new Pair(u, wt));
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>(new SortPriorityQueue());
-        int[] dist = new int[V];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[src] = 0;
-        pq.add(new Pair(0,src));
+        int[] minDist = new int[V];
+        
+        Arrays.fill(minDist, (int)1e8);
+        minDist[src] = 0;
+        
+        PriorityQueue<Pair> pq = new PriorityQueue<>(new SortThePQ());
+        pq.add(new Pair(src, 0));
         
         while(!pq.isEmpty()){
             Pair tmp = pq.poll();
-            int u = tmp.getValue();
-            int wu = tmp.getKey();
-            for(Pair pr:adj.get(u)){
-                int v = pr.getValue();
-                int w = pr.getKey();
-                int totalDist = wu + w;
-                if(dist[v] > totalDist){
-                    pq.add(new Pair(totalDist,v));
-                    dist[v] = totalDist;
+            int parent = tmp.v;
+            int currWt = tmp.wt;
+            for(Pair child : adj.get(parent)){
+                int v = child.v;
+                int newWt = currWt + child.wt;
+                if(newWt < minDist[v]){
+                    minDist[v] = newWt;
+                    pq.offer(new Pair(v, newWt));
                 }
             }
         }
-        
-        return dist;
-        
+        return minDist;
     }
 }
 
- class Pair{
-    private int key;
-    private int value;
-    
-    public Pair(int key, int value){
-        this.key = key;
-        this.value = value;
+class Pair{
+    int v;
+    int wt;
+    Pair(int v, int wt){
+        this.v = v;
+        this.wt = wt;
     }
-    
-    public int getKey(){
-        return this.key;
-    }
-    
-    public int getValue(){
-        return this.value;
-    }
-    
 }
 
- class SortPriorityQueue implements Comparator<Pair>{
+class SortThePQ implements Comparator<Pair>{
     public int compare(Pair p1, Pair p2){
-        int dis1 = p1.getKey();
-        int dis2 = p2.getKey();
-        int n1 = p1.getValue();
-        int n2 = p2.getValue();
-        if(dis1 != dis2){
-            return dis1 - dis2;
+        if(p1.wt == p2.wt){
+            return p1.v - p2.v;
         }
-        return n1 - n2;
+        
+        return p1.wt - p2.wt;
     }
 }
