@@ -1,20 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> li = new ArrayList<>();
+        int n = nums.length;
         List<Integer> tmp = new ArrayList<>();
-        generateAns(tmp, 0, li, nums);
-        return li;
+        List<List<Integer>> res =new ArrayList<>();
+        recurse(0,n,nums, tmp, res);
+        return res;
     }
 
-    public static void generateAns(List<Integer> tmp, int idx, List<List<Integer>> li, int[] nums){
-        if(idx == nums.length){
-            li.add(new ArrayList<>(tmp));
+    public static void recurse(int i, int n, int[] nums, List<Integer> tmp, List<List<Integer>> res){
+        if(i == n){
+            res.add(new ArrayList<>(tmp));
             return;
         }
-
-        tmp.add(nums[idx]);
-        generateAns(tmp, idx + 1, li, nums);
+        tmp.add(nums[i]);
+        recurse(i+1, n, nums,tmp, res);
         tmp.removeLast();
-        generateAns(tmp,idx + 1, li, nums);
+        recurse(i+1,n,nums, tmp, res);
     }
 }
