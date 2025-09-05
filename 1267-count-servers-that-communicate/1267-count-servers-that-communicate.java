@@ -12,10 +12,15 @@ class Solution {
                     for(int k=0;k<n;k++){
                         if(k != i && grid[k][j] == 1){
                             row = true;
+                            break;
                             
                         }
+                        
+                    }
+                    for(int k=0;k<m;k++){
                         if(k != j && grid[i][k] == 1){
                             column = true;
+                            break;
                         }
                     }
                     if(row || column){
