@@ -1,5 +1,7 @@
 class Solution {
-    public int[] getFinalState(int[] nums, int k, int multiplier) {
+    public int[] getFinalState(int[] nums, int k, int multiplier) {       if(multiplier == 1){
+        return nums;
+    }
         PriorityQueue<int[]> pq = new PriorityQueue<>(new SortThePQ());
         for(int i=0;i<nums.length;i++){
             pq.offer(new int[]{nums[i], i});
