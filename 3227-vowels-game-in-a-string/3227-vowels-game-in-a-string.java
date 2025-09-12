@@ -3,7 +3,8 @@ class Solution {
         int n = s.length();
 
         // Vowels ke index ke liye maine yeh liya hai
-        List<Integer> vowels = new ArrayList<>();
+        int lastVowelIndex = -1;
+        int cntVowels = 0;
         for(int i=0;i<n;i++){
             char ch = s.charAt(i);
             if(
@@ -13,19 +14,20 @@ class Solution {
                 ch == 'o' ||
                 ch == 'u' 
             ){
-                vowels.add(i);
+                lastVowelIndex = i;
+                cntVowels++;
             }
         }
 
         // agar mera vowels count is odd
-        int cntVowels = vowels.size();
+        
         if(cntVowels == 0){
             return false;
         }
         if(cntVowels % 2 != 0){
             return true;
         }
-        int lastVowelIndex = vowels.get(cntVowels-1);
+        
         int strLeft = n - lastVowelIndex;
         if(strLeft > 1){
             return true;
