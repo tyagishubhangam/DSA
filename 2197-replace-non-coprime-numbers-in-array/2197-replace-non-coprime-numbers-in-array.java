@@ -7,22 +7,24 @@ class Solution {
             return ans;
         }
         Stack<Integer> st = new Stack<>();
-        st.push(nums[0]);
-        for(int i=1;i<n;i++){
-            int b = nums[i];
-            while(!st.isEmpty()){
-                int a = st.peek();
+        // st.push(nums[0]);
+        for(int i=0;i<n;i++){
+            st.push(nums[i]);
+            while(st.size() >=2){
+                int b = st.pop();
+                int a = st.pop();
                 int gcd = GCD(a,b);
-                if(gcd == 1){
+                // System.out.println(gcd);
+                if(gcd != 1){
+                    // st.pop();
+                    long lcm = (long)a*b / gcd;
+                    st.push((int)lcm);
+                }else{
+                    st.push(a);
+                    st.push(b);
                     break;
                 }
-                st.pop();
-                long lcm = (long)a * b / gcd;
-                b = (int)lcm;
             }
-            
-            
-            st.push(b);
             
         }
         while(!st.isEmpty()){
