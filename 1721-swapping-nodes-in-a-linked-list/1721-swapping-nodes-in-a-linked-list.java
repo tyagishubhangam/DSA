@@ -10,32 +10,21 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        ListNode first = null;
+        HashMap<Integer, ListNode> hs = new HashMap<>();
+        
         int len = 0;
         ListNode tmp = head;
         while(tmp != null){
             len++;
-            if(len == k){
-                first = tmp;
-            }
+            hs.put(len, tmp);
             tmp = tmp.next;
         }
+        
+        
 
-        tmp = head;
-        int len2 = 0;
-        ListNode last = null;
-        while(tmp != null){
-            len2++;
-            if(len2 == len - k+1){
-                last = tmp;
-                break;
-            }
-            tmp = tmp.next;
-        }
-
-        int x = first.val;
-        first.val = last.val;
-        last.val = x;
+        int x = hs.get(k).val;
+        hs.get(k).val = hs.get(len - k + 1).val;
+        hs.get(len -k +1).val = x;
         return head;
     }
 }
