@@ -10,24 +10,30 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        HashMap<Integer, Integer> hs = new HashMap<>();
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+            prev = slow;
+        }
+
+        while(slow != null){
+            ListNode nxt = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = nxt;
+        }
+        
+        int ans = 0;
         ListNode tmp = head;
-        int idx = 0;
-        while(tmp != null){
-            hs.put(idx, tmp.val);
+        while(prev != tmp){
+            ans = Math.max(ans, tmp.val + prev.val);
+            prev = prev.next;
             tmp = tmp.next;
-            idx++;
         }
 
-        int maxSum = Integer.MIN_VALUE;
-        int l = 0;
-        int r = idx-1;
-        while(l < r){
-            maxSum = Math.max(maxSum, hs.get(l)+hs.get(r));
-            l++;
-            r--;
-        }
-
-        return maxSum;
+        return ans;
     }
 }
