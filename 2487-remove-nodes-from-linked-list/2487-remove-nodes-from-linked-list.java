@@ -18,27 +18,30 @@ class Solution {
             prev = tmp;
             tmp = nxt;
         }
-        List<ListNode> li = new ArrayList<>();
+        ListNode res = new ListNode(0);
+        ListNode hd = res;
         Stack<ListNode> st = new Stack<>();
         while(prev != null){
             while(!st.isEmpty() && st.peek().val <= prev.val){
                 st.pop();
             }
             if(st.isEmpty()){
-                li.add(prev);
+                res.next = prev;
+                res = res.next;
             }
             st.push(prev);
             prev = prev.next;
         }
-        ListNode res = new ListNode(0);
-        ListNode hd = res;
-        for(int i=li.size()-1;i>=0;i--){
-            if(li.get(i) != null){
-                res.next = li.get(i);
-                res = res.next;
-            }
-        }
         res.next = null;
-        return hd.next;
+        prev = null;
+        hd = hd.next;
+        while(hd != null){
+            ListNode nxt = hd.next;
+            hd.next = prev;
+            prev = hd;
+            hd = nxt;
+        }
+
+        return prev;
     }
 }
