@@ -1,6 +1,6 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        Arrays.sort(candies);
+        
         int n = candies.length;
         long total = 0;
         long l = 1;
