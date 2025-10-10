@@ -27,6 +27,9 @@ class Solution {
             }else{
                 i++;
             }
+            if(cnt >=p){
+                return true;
+            }
         }
         return cnt >= p;
     }
