@@ -7,16 +7,17 @@ class Solution {
             return nums[0] == target;
         }
         int pivot = getPivot(nums);
+        System.out.println(pivot);
         if(nums[pivot] == target){
             return true;
         }
         if(target > nums[pivot]){
-            if(target < nums[n-1]){
-                l = pivot+1;
-                r = n - 1;
-            }else{
+            if(target > nums[n-1]){
                 l = 0;
                 r = pivot-1;
+            }else{
+                l = pivot;
+                r = n-1;
             }
         }else{
             return false;
