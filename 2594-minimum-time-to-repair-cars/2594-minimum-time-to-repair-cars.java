@@ -1,14 +1,15 @@
 class Solution {
     public long repairCars(int[] ranks, int cars) {
         int n = ranks.length;
-        long l = ranks[0];
+        long l = 1;
         long r = ranks[0];
         for(int i=0;i<n;i++){
-            l = Math.min(ranks[i], l);
+            
             r = Math.max(ranks[i], r);
         }
-        long ans = Long.MAX_VALUE;
         r = (long)Math.pow(cars,2) * r;
+        long ans = r;
+        
         while(l <= r){
             long mid = l + (r - l) / 2;
             if(isValid(ranks, mid, cars)){
