@@ -1,79 +1,55 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        
-        return getAns(target, nums);
-        
+        int n = nums.length;
+        int leftIdx = getLeftIdx(nums, target);
+        int rightIdx = getRightIdx(nums, target);
+        int[] ans = new int[2];
+        ans[0] = -1;
+        ans[1] = -1;
+        if(leftIdx == -1){
+            return ans;
+        }
+        ans[0] = leftIdx;
+        ans[1] = rightIdx;
+        return ans;
     }
 
-    public int[] getAns(int target, int[] nums) {
+    public int getLeftIdx(int[] nums, int target){
         int n = nums.length;
         int l = 0;
-        int r = nums.length - 1;
-        int[] ans = new int[] { -1, -1 };
-        while (l <= r) {
+        int r = n-1;
+        while(l <= r){
             int mid = l + (r - l) / 2;
-            if (nums[mid] == target) {
-                if (mid == 0) {
-                    ans[0] = mid;
-                    break;
-                }
-                if (mid == n - 1) {
-                    if (nums[mid] != nums[mid - 1]) {
-                        ans[0] = mid;
-                        break;
-                    } else {
-                        r = mid - 1;
-                    }
-                } else {
-                    if (nums[mid] != nums[mid - 1]) {
-                        ans[0] = mid;
-                        break;
-                    } else {
-                        r = mid - 1;
-                    }
-                }
-            } else {
-                if (nums[mid] > target) {
-                    r = mid - 1;
-                } else {
-                    l = mid + 1;
-                }
-            }
-        }
-        l = 0;
-        r = n - 1;
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] == target) {
-                if (mid == n - 1) {
-                    ans[1] = n - 1;
-                    break;
-                }
-                if (mid == 0) {
-                    if (nums[mid] != nums[mid + 1]) {
-                        ans[1] = mid;
-                        break;
-                    } else {
-                        l = mid + 1;
-                    }
-                }else{
-                    if(nums[mid] != nums[mid+1]){
-                        ans[1] = mid;
-                        break;
-                    }else{
-                        l = mid + 1;
-                    }
-                }
-
+            if(target <= nums[mid]){
+                r = mid - 1;
             }else{
-                if (nums[mid] > target) {
-                    r = mid - 1;
-                } else {
-                    l = mid + 1;
-                }
+                l = mid + 1;
+            }
+        }
+        if(l < n && nums[l] == target){
+            return l;
+        }
+
+        return -1;
+    }
+
+    public int getRightIdx(int[] nums, int target){
+        int n = nums.length;
+        int l = 0;
+        int r = n - 1;
+        while(l<=r){
+            int mid = l + (r - l) / 2;
+            if(target >= nums[mid]){
+                l = mid + 1;
+            }else{
+                r = mid - 1;
             }
         }
 
-        return ans;
+        if(r >= 0 && nums[r] == target){
+            return r;
+        }
+
+        return -1;
     }
 }
