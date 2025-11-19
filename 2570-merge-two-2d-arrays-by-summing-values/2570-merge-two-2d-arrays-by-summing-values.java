@@ -16,17 +16,17 @@ class Solution {
         while(l < n && r < m){
             if(nums1[l][0] == nums2[r][0]){
                 ans[idx][0] = nums1[l][0];
-                ans[idx][1] = hs.get(nums1[l][0]);
+                ans[idx][1] = nums1[l][1] + nums2[r][1];
                 l++;
                 r++;
             }else{
                 if(nums1[l][0] < nums2[r][0]){
                     ans[idx][0] = nums1[l][0];
-                    ans[idx][1] = hs.get(nums1[l][0]);
+                    ans[idx][1] = nums1[l][1];
                     l++;
                 }else{
                     ans[idx][0] = nums2[r][0];
-                    ans[idx][1] = hs.get(nums2[r][0]);
+                    ans[idx][1] = nums2[r][1];
                     r++;
                 }
             }
@@ -36,12 +36,12 @@ class Solution {
 
         while(l < n){
             ans[idx][0] = nums1[l][0];
-            ans[idx++][1] = hs.get(nums1[l][0]);
+            ans[idx++][1] = nums1[l][1];
             l++;
         }
         while(r < m){
             ans[idx][0] = nums2[r][0];
-            ans[idx++][1] = hs.get(nums2[r][0]);
+            ans[idx++][1] = nums2[r][1];
             r++;
         }
 
