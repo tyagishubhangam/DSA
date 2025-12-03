@@ -15,25 +15,29 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return heightDifference(root) !=-1;
+        return recurse(root);
     }
 
-    public static int heightDifference(TreeNode root){
+    public static boolean recurse(TreeNode root){
+        if(root == null){
+            return true;
+        }
+        int lH = findHeight(root.left);
+        int rH = findHeight(root.right);
+        if(Math.abs(lH - rH) > 1){
+            return false;
+        }
+
+        return recurse(root.left) && recurse(root.right);
+    }
+
+    public static int findHeight(TreeNode root){
         if(root == null){
             return 0;
         }
-        int leftHeight = heightDifference(root.left);
-        if(leftHeight == -1){
-            return -1;
-        }
-        int rightHeight = heightDifference(root.right);
-        if(rightHeight == -1){
-            return -1;
-        }
-        if(Math.abs(rightHeight - leftHeight) > 1){
-            return -1;
-        }
 
-        return (Math.max(leftHeight, rightHeight) + 1);
+        return 1 + Math.max(findHeight(root.left), findHeight(root.right));
     }
+
+    
 }
