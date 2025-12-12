@@ -1,11 +1,9 @@
 /*
-class Node
-{
+class Node {
     int data;
     Node left, right;
 
-    public Node(int d)
-    {
+    public Node(int d) {
         data = d;
         left = right = null;
     }
@@ -13,52 +11,32 @@ class Node
 */
 
 class Solution {
-    ArrayList<Integer> boundaryTraversal(Node node) {
-        // code here
+    ArrayList<Integer> boundaryTraversal(Node root) {
         ArrayList<Integer> li = new ArrayList<>();
-        li.add(node.data);
-        if(isLeaf(node)){
+        li.add(root.data);
+        if(root.left == null && root.right == null){
             return li;
         }
-        traverseLeft(node.left,li);
-        traverseLeafs(node,li);
-        traverseRight(node.right,li);
+        traverseLeft(root.left, li);
+        traverseLeafs(root, li);
+        traverseRight(root.right, li);
         return li;
+        
         
     }
     
     public static void traverseLeft(Node root, ArrayList<Integer> li){
         Node tmp = root;
         while(tmp != null){
-            if(!isLeaf(tmp)){
+            if(tmp.left != null || tmp.right != null){
                 li.add(tmp.data);
-                
             }
+            
             if(tmp.left != null){
                 tmp = tmp.left;
             }else{
                 tmp = tmp.right;
             }
-        }
-    }
-    
-    public static void traverseRight(Node root, ArrayList<Integer> li){
-        Node tmp = root;
-        ArrayList<Integer> rev = new ArrayList<>();
-        while(tmp != null){
-            if(!isLeaf(tmp)){
-                rev.add(tmp.data);
-            }
-            if(tmp.right != null){
-            tmp = tmp.right;
-            }
-            else{
-                tmp = tmp.left;
-            }
-        }
-        
-        for(int i=rev.size()-1;i>=0;i--){
-            li.add(rev.get(i));
         }
         
         
@@ -68,27 +46,28 @@ class Solution {
         if(root == null){
             return ;
         }
-        
-        if(isLeaf(root)){
-            // System.out.println(root.data);
+        if(root.left == null && root.right == null){
             li.add(root.data);
-            return ;
-           
         }
-        
-            traverseLeafs(root.left, li);
-        
-        
-            traverseLeafs(root.right, li);
-        
-        
+        traverseLeafs(root.left, li);
+        traverseLeafs(root.right, li);
     }
     
-    public static boolean isLeaf(Node root){
-        if(root.left == null && root.right == null){
-            return true;
+    public static void traverseRight(Node root, ArrayList<Integer> li){
+        Node tmp = root;
+        List<Integer> demo = new ArrayList<>();
+        while(tmp != null){
+            if(tmp.left != null || tmp.right != null){
+                demo.add(tmp.data);
+            }
+            if(tmp.right != null){
+                tmp = tmp.right;
+            }else{
+                tmp = tmp.left;
+            }
         }
-        
-        return false;
+        for(int i=demo.size() - 1;i>=0;i--){
+            li.add(demo.get(i));
+        }
     }
 }
