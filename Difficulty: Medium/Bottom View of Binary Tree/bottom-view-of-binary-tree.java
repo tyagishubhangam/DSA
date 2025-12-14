@@ -1,56 +1,51 @@
 /*
-class Node
-{
-    int data; //data of the node
-    int hd; //horizontal distance of the node
-    Node left, right; //left and right references
+class Node {
+    int data;
+    Node left, right;
 
-    // Constructor of tree node
-    public Node(int key)
-    {
-        data = key;
-        hd = Integer.MAX_VALUE;
-        left = right = null;
+    Node(int val) {
+        this.data = val;
+        this.left = null;
+        this.right = null;
     }
 }
 */
-
 class Solution {
     public ArrayList<Integer> bottomView(Node root) {
-        // Code here
-        ArrayList<Integer> res = new ArrayList<>();
-        if(root == null){
-            return res;
-        }
-        Queue<Pair> queue = new LinkedList<>();
-        queue.offer(new Pair(0,root));
-        TreeMap<Integer, Integer> hs = new TreeMap<>();
+        // code here
+        TreeMap<Integer, Integer> mp = new TreeMap<>();
+        Queue<TempNode> queue = new LinkedList<>();
+        queue.offer(new TempNode(root, 0));
         while(!queue.isEmpty()){
             int n = queue.size();
             for(int i=0;i<n;i++){
-                Pair tmp = queue.poll();
-                int pos = tmp.pos;
-                hs.put(pos, tmp.node.data);
-                if(tmp.node.left != null){
-                    queue.offer(new Pair(pos - 1, tmp.node.left));
+                TempNode t = queue.poll();
+                int col = t.col;
+                
+                    mp.put(col,t.node.data);
+                
+                if(t.node.left != null){
+                    queue.offer(new TempNode(t.node.left, col - 1));
                 }
-                if(tmp.node.right != null){
-                    queue.offer(new Pair(pos + 1, tmp.node.right));
+                if(t.node.right != null){
+                    queue.offer(new TempNode(t.node.right, col + 1));
                 }
             }
         }
-        for(int i:hs.keySet()){
-            res.add(hs.get(i));
+        ArrayList<Integer> li = new ArrayList<>();
+        for(int i : mp.values()){
+            li.add(i);
         }
-        return res;
+        return li;
+        
     }
 }
 
-class Pair{
+class TempNode{
     Node node;
-    int pos;
-    Pair(int pos, Node node){
-        this.node = node;
-        this.pos = pos;
+    int col;
+    TempNode(Node root, int col){
+        this.node = root;
+        this.col = col;
     }
 }
