@@ -1,68 +1,51 @@
 /*
-class Node{
+class Node {
     int data;
-    Node left;
-    Node right;
-    Node(int data){
-        this.data = data;
-        left=null;
-        right=null;
+    Node left, right;
+
+    Node(int val) {
+        this.data = val;
+        this.left = null;
+        this.right = null;
     }
 }
 */
-
 class Solution {
-    // Function to return a list of nodes visible from the top view
-    // from left to right in Binary Tree.
-    static ArrayList<Integer> topView(Node root) {
+    public ArrayList<Integer> topView(Node root) {
         // code here
-    
-        ArrayList<Integer> res = new ArrayList<>();
-        if(root == null){
-            return res;
-        }
-        Queue<Pair> queue = new LinkedList<>();
-        queue.offer(new Pair(root, 0));
-        TreeMap<Integer, Integer> hs = new TreeMap<>();
+        TreeMap<Integer, Integer> mp = new TreeMap<>();
+        Queue<TempNode> queue = new LinkedList<>();
+        queue.offer(new TempNode(root, 0));
         while(!queue.isEmpty()){
             int n = queue.size();
-            
             for(int i=0;i<n;i++){
-                Pair tmp = queue.poll();
-                int pos = tmp.pos;
-                Node node = tmp.node;
-                if(!hs.containsKey(pos)){
-                    hs.put(pos, node.data);
+                TempNode t = queue.poll();
+                int col = t.col;
+                if(!mp.containsKey(col)){
+                    mp.put(col,t.node.data);
                 }
-                if(node.left != null){
-                    queue.offer(new Pair(node.left, pos - 1));
+                if(t.node.left != null){
+                    queue.offer(new TempNode(t.node.left, col - 1));
                 }
-                
-                if(node.right != null){
-                    queue.offer(new Pair(node.right, pos + 1));
+                if(t.node.right != null){
+                    queue.offer(new TempNode(t.node.right, col + 1));
                 }
             }
         }
-        for(int i:hs.keySet()){
-            res.add(hs.get(i));
+        ArrayList<Integer> li = new ArrayList<>();
+        for(int i : mp.values()){
+            li.add(i);
         }
-        return res;
+        return li;
         
     }
 }
 
-class Pair{
+class TempNode{
     Node node;
-    int pos;
-    
-    Pair(Node node, int pos){
-        this.node = node;
-        this.pos = pos;
+    int col;
+    TempNode(Node root, int col){
+        this.node = root;
+        this.col = col;
     }
 }
-
-// class SortThePQ implements Comparator<Pair> {
-//     public int compare(Pair p1, Pair p2){
-//         return p1.pos-p2-pos;
-//     }
-// }
