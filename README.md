@@ -392,6 +392,7 @@ Leetcode and GFG problems
 | [1138-grumpy-bookstore-owner](https://github.com/tyagishubhangam/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
 | [1284-four-divisors](https://github.com/tyagishubhangam/DSA/tree/master/1284-four-divisors) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tyagishubhangam/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/tyagishubhangam/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tyagishubhangam/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
