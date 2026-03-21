@@ -221,6 +221,7 @@ Leetcode and GFG problems
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2678-number-of-senior-citizens](https://github.com/tyagishubhangam/DSA/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3110-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3379-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/tyagishubhangam/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -408,6 +409,7 @@ Leetcode and GFG problems
 | [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2678-number-of-senior-citizens](https://github.com/tyagishubhangam/DSA/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2737-row-with-maximum-ones](https://github.com/tyagishubhangam/DSA/tree/master/2737-row-with-maximum-ones) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
