@@ -77,6 +77,7 @@ Leetcode and GFG problems
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
 | [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tyagishubhangam/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +411,7 @@ Leetcode and GFG problems
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tyagishubhangam/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tyagishubhangam/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,6 +545,7 @@ Leetcode and GFG problems
 | [1242-matrix-block-sum](https://github.com/tyagishubhangam/DSA/tree/master/1242-matrix-block-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/tyagishubhangam/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/tyagishubhangam/DSA/tree/master/2737-row-with-maximum-ones) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tyagishubhangam/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
