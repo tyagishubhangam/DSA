@@ -222,6 +222,7 @@ Leetcode and GFG problems
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/tyagishubhangam/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2678-number-of-senior-citizens](https://github.com/tyagishubhangam/DSA/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tyagishubhangam/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3379-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/tyagishubhangam/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
