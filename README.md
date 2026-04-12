@@ -59,6 +59,7 @@ Leetcode and GFG problems
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tyagishubhangam/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Leetcode and GFG problems
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
 | [0901-advantage-shuffle](https://github.com/tyagishubhangam/DSA/tree/master/0901-advantage-shuffle) |
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tyagishubhangam/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/tyagishubhangam/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
