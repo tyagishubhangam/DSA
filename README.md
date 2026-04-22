@@ -345,6 +345,7 @@ Leetcode and GFG problems
 | [0046-permutations](https://github.com/tyagishubhangam/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tyagishubhangam/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tyagishubhangam/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/tyagishubhangam/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/tyagishubhangam/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/tyagishubhangam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tyagishubhangam/DSA/tree/master/0078-subsets) |
@@ -507,6 +508,7 @@ Leetcode and GFG problems
 | [0005-longest-palindromic-substring](https://github.com/tyagishubhangam/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tyagishubhangam/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/tyagishubhangam/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/tyagishubhangam/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tyagishubhangam/DSA/tree/master/0091-decode-ways) |
@@ -555,6 +557,7 @@ Leetcode and GFG problems
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/tyagishubhangam/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/tyagishubhangam/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tyagishubhangam/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tyagishubhangam/DSA/tree/master/0347-top-k-frequent-elements) |
