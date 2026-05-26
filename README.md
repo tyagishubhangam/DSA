@@ -205,6 +205,7 @@ Leetcode and GFG problems
 | [0424-longest-repeating-character-replacement](https://github.com/tyagishubhangam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tyagishubhangam/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/tyagishubhangam/DSA/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/tyagishubhangam/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tyagishubhangam/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/tyagishubhangam/DSA/tree/master/0678-valid-parenthesis-string) |
