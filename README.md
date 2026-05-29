@@ -123,6 +123,7 @@ Leetcode and GFG problems
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tyagishubhangam/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tyagishubhangam/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Stack
 | Problem Name | Difficulty |
@@ -229,6 +230,7 @@ Leetcode and GFG problems
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tyagishubhangam/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tyagishubhangam/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tyagishubhangam/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3379-score-of-a-string](https://github.com/tyagishubhangam/DSA/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/tyagishubhangam/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/tyagishubhangam/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
