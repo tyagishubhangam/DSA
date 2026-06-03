@@ -80,6 +80,7 @@ Leetcode and GFG problems
 | [0908-middle-of-the-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tyagishubhangam/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tyagishubhangam/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tyagishubhangam/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/tyagishubhangam/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -279,6 +280,7 @@ Leetcode and GFG problems
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tyagishubhangam/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/tyagishubhangam/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tyagishubhangam/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tyagishubhangam/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@ Leetcode and GFG problems
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tyagishubhangam/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tyagishubhangam/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tyagishubhangam/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +430,7 @@ Leetcode and GFG problems
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tyagishubhangam/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tyagishubhangam/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tyagishubhangam/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/tyagishubhangam/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -453,6 +457,7 @@ Leetcode and GFG problems
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tyagishubhangam/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/tyagishubhangam/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tyagishubhangam/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tyagishubhangam/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
