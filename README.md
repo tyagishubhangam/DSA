@@ -267,6 +267,7 @@ Leetcode and GFG problems
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tyagishubhangam/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tyagishubhangam/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +550,7 @@ Leetcode and GFG problems
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tyagishubhangam/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tyagishubhangam/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +591,7 @@ Leetcode and GFG problems
 | ------- | ------- |
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/tyagishubhangam/DSA/tree/master/1212-sequential-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/tyagishubhangam/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
