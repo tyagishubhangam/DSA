@@ -89,6 +89,7 @@ Leetcode and GFG problems
 | [0050-powx-n](https://github.com/tyagishubhangam/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tyagishubhangam/DSA/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/tyagishubhangam/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/tyagishubhangam/DSA/tree/master/2050-count-good-numbers) |
@@ -256,6 +257,7 @@ Leetcode and GFG problems
 | [0204-count-primes](https://github.com/tyagishubhangam/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tyagishubhangam/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/tyagishubhangam/DSA/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0795-k-th-symbol-in-grammar](https://github.com/tyagishubhangam/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/tyagishubhangam/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -539,6 +541,7 @@ Leetcode and GFG problems
 | [0338-counting-bits](https://github.com/tyagishubhangam/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tyagishubhangam/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tyagishubhangam/DSA/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/tyagishubhangam/DSA/tree/master/0526-beautiful-arrangement) |
@@ -633,6 +636,7 @@ Leetcode and GFG problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 ## Geometry
 | Problem Name | Difficulty |
