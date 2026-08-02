@@ -424,6 +424,7 @@ Leetcode and GFG problems
 | [1741-sort-array-by-increasing-frequency](https://github.com/tyagishubhangam/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tyagishubhangam/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/tyagishubhangam/DSA/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tyagishubhangam/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/tyagishubhangam/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tyagishubhangam/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -553,6 +554,7 @@ Leetcode and GFG problems
 | [0747-min-cost-climbing-stairs](https://github.com/tyagishubhangam/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tyagishubhangam/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/tyagishubhangam/DSA/tree/master/1250-longest-common-subsequence) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/tyagishubhangam/DSA/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tyagishubhangam/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/tyagishubhangam/DSA/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
