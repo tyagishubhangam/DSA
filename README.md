@@ -125,6 +125,7 @@ Leetcode and GFG problems
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tyagishubhangam/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tyagishubhangam/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/tyagishubhangam/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -433,6 +434,7 @@ Leetcode and GFG problems
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/tyagishubhangam/DSA/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2737-row-with-maximum-ones](https://github.com/tyagishubhangam/DSA/tree/master/2737-row-with-maximum-ones) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tyagishubhangam/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tyagishubhangam/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -490,6 +492,7 @@ Leetcode and GFG problems
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tyagishubhangam/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tyagishubhangam/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3193-maximum-strong-pair-xor-i](https://github.com/tyagishubhangam/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/tyagishubhangam/DSA/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tyagishubhangam/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
