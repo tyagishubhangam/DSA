@@ -8,7 +8,7 @@ class Solution {
         while(r < n){
             char ch = s.charAt(r);
             hs.put(ch, hs.getOrDefault(ch, 0) + 1);
-            while(l < r && (r - l + 1) > hs.size()){
+            while(l < r && hs.get(ch) > 1){
                 char chRem = s.charAt(l);
                 hs.put(chRem, hs.get(chRem) - 1);
                 if(hs.get(chRem) == 0){
