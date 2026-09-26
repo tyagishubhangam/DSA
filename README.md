@@ -122,6 +122,7 @@ Leetcode and GFG problems
 | [1370-count-number-of-nice-subarrays](https://github.com/tyagishubhangam/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tyagishubhangam/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tyagishubhangam/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tyagishubhangam/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tyagishubhangam/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -225,6 +226,7 @@ Leetcode and GFG problems
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tyagishubhangam/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tyagishubhangam/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/tyagishubhangam/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tyagishubhangam/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tyagishubhangam/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/tyagishubhangam/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tyagishubhangam/DSA/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -427,6 +429,7 @@ Leetcode and GFG problems
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tyagishubhangam/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tyagishubhangam/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/tyagishubhangam/DSA/tree/master/1755-defuse-the-bomb) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tyagishubhangam/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tyagishubhangam/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tyagishubhangam/DSA/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tyagishubhangam/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
